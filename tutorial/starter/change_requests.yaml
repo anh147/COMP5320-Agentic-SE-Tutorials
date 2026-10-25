@@ -1,0 +1,19 @@
+# Change requests that arrive after the Release 1 plan was agreed.
+# Capacity does NOT change: the release is still 50 points.
+
+requests:
+  - id: CR-01
+    title: Show allergen information on every dish
+    points: 2
+    requested_by: Legal team
+    note: >
+      New food-safety regulation. Apps that sell food in the city must show
+      allergens per dish from the launch date. Launching without it is not allowed.
+
+  - id: CR-02
+    title: Split the bill between friends in a group order
+    points: 8
+    requested_by: Marketing
+    note: >
+      Marketing would like it for the launch campaign ("order together with
+      SoopiFood"). The campaign can still run without it.
