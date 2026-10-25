@@ -1,5 +1,5 @@
-(Use this on your own projects: it gives the writer the business context from the start,
-so you do not spend a round finding out what it guessed.)
+<!-- (Use this on your own projects: it gives the writer the business context from the start,
+so you do not spend a round finding out what it guessed.) -->
 
 Write Gherkin acceptance criteria for this SoopiFood user story:
 
