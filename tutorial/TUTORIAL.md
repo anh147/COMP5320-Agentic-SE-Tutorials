@@ -1,6 +1,6 @@
 # Tutorial: Requirements Engineering with AI agents (SoopiFood)
 
-**Chapter:** 2 · **Led by:** Group 2 · **Format:** in teams
+**Chapter:** 2 · **Led by:** Group 2 · **Format:** in individuals
 **Tools:** your AI coding agent (any agent that can read and write files in this repository)
 
 ## Learning objectives
