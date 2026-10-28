@@ -1,0 +1,52 @@
+# SoopiFood backlog for Release 1 ("MVP launch in Hanoi").
+# Release goal: a customer can find food, order it, pay, and receive it.
+# Capacity is the team's effort budget for the release, in story points.
+
+capacity: 50
+
+stories:
+  - id: SF-01
+    title: Sign up and log in with phone number + OTP
+    points: 3
+  - id: SF-02
+    title: Browse restaurants and menus near my address
+    points: 5
+  - id: SF-03
+    title: Add dishes to a cart and place an order
+    points: 5
+  - id: SF-04
+    title: Pay by card or e-wallet
+    points: 5
+  - id: SF-05
+    title: Restaurant accepts or rejects an incoming order
+    points: 3
+  - id: SF-06
+    title: Apply a promo code at checkout
+    points: 3
+  - id: SF-07
+    title: Order status updates (placed, cooking, on the way, delivered)
+    points: 3
+  - id: SF-08
+    title: See the driver's live location on a map
+    points: 5
+  - id: SF-09
+    title: Reorder a previous order in one tap
+    points: 2
+  - id: SF-10
+    title: Rate and review a restaurant after delivery
+    points: 3
+  - id: SF-11
+    title: Schedule an order for a later time
+    points: 5
+  - id: SF-12
+    title: SoopiCoins loyalty points on every order
+    points: 8
+  - id: SF-13
+    title: Pay cash on delivery
+    points: 3
+  - id: SF-14
+    title: Add special instructions for the restaurant (e.g. less spicy)
+    points: 2
+  - id: SF-15
+    title: Dark mode
+    points: 3
